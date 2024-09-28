@@ -1,0 +1,14 @@
+[
+  {
+    "question": "what is the capital of France? what is the capital of France? what is the capital of France? what is the capital of France? ",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct_option": ["Paris"],
+    "image_url": "https://example.com/images/france.png"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus", "mars"],
+    "correct_option": ["Mars", "mars"],
+    "image_url": "https://example.com/images/mars.png"
+  }
+]
